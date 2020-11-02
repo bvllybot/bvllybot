@@ -57,4 +57,5 @@ async def on_message(message):
 client.run(prod)
 # testing
 
+print('test')
 #client.run('NzcyNDU4MjI4MjMxMDQ1MTcx.X569yQ.YuYco7McSzlRmdwCFswJXlbPLxE')
