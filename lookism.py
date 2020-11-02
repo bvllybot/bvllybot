@@ -1,0 +1,14 @@
+shitposts= [
+    "YOU UGLY VIRGIN DISGRACE THAT GETS BULLIED 24/7",
+    "THE ONLY ONE YOU HAD NIGHTMARE ABOUT IS ME, YOU UGLY HIGH INHIB LITTLE DOWN-SYNDROME CROUZON-SYNDROME EYED FAGGOT TURBOVIRGIN look at this fat selfhating midget getting ready to cry and self-harm ",
+    "keep trying hard to hide pain through your autistic childish weak replies, you frail virgin child.",
+    "keep listing my dead buried irrelevant victims that I had no mercy on, you utter submissive autistic cuck. all of them don't post here anymore and are gone forever, yet I am still here. what does this mean, you fucking retard?",
+    "what an extremely weak reply. I have never seen something so beyond embrassing. another pissweak cuck I bullied to death. it never even began for you",
+    "you've never bullied nor abused anyone, you delusional virgin. you have been victim of torment since the day your whore mother forgot to abort you and shat you out in the streets",
+    "LOOK AT THIS LITTLE LOW T FATASS BEGGING ME FOR MERCY AND TO LEAVE HIM ALONE",
+    "didn't read a single word of your autistic pissweak cry for mercy. I bullied you too hard and made you a self-hating joke, you pissweak fragile midget ",
+    "it's cute that you think you can tell me what to do I will keep posting whatever I want to and I will also murder your family if I feel like doing that. just lol at you thinking your opinion means anything",
+    "shut the fuk up, you delusional skinny fat estrogenic twink ginger low T manlet faggot what an ugly subhuman. all I see is a little depressed bitch scared of everything. you ain't strong, not even close. look at your weak soft physique. 100% skinny fat subhuman with literally no muscle, pure fat I would bully you so badly.. you have no idea. you is a bitch. look at this picture you psoted after a 12 year old beat you up, you submissive piss-weak coward you are so damn ugly and repulsive, you absolutely fucking disgust me. you're also so damn weak and small. I would shatter your back and make you paralyzed for life, you absolute subhuman. lol if you think you have a chance with me",
+    "your shoes are all you see when you walk you're a weak pussy, that's it. too scared to even look up you are lucky that dude didn't attack you. he would brutally murder you and dispose your corpse in the middle of nowhere keep coping thinking making these shitty pathetic autistic threads will make you appear 'tough'. I know easily you is a submissive high inhib coward pussy ass bitch you're lucky we're not in the same school. I'd bully you every damn day till you start skipping school and eventually commit suicide you ain't gonna do shit. look how soft you is. I obviously hurt you. I make you my bitch, you cuck. rope yourself",
+    "keep crying for me you autistic social reject, I don't masturbate at all, I don't have enough semen for that since I'm breeding aryan teens on a daily basis",
+]
