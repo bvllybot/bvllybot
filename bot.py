@@ -51,7 +51,7 @@ async def on_message(message):
         await message.author.send('https://discord.gg/Swwe7hknrT')
         await message.author.send("WH*TE BOY, YOU HAVE BROKEN THE ToS OF NOT USING * FOR WH*TE")
         #await discord.member.Member.kick(message.author)
-#testing changes
+#testing changes 123 4 5 
 #token
 #production
 client.run(prod)
