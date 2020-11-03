@@ -4,12 +4,13 @@ import re
 def morocco_filter(message):
     match = re.search('m[o-p0-9][r-s0-5]+[o-s0-5][c-e0-5]+o', message.content.lower())
     if match:
-         return True
+        return True
 
 def jesus_filter(message):
     match = re.search('jesus', message.content.lower())
     if match:
          return True
+    
 
 def rules_filter(message):
     match = re.search('rules', message.content.lower())

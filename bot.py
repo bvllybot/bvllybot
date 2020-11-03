@@ -10,8 +10,12 @@ from lookism import shitposts
 from gods import gods
 import filters as f # f for filter
 
-bot = commands.Bot(command_prefix='.', description='')
 client = discord.Client()
+
+@bot.command()
+async def test(ctx):
+    await ctx.send('testing')
+    pass
 
 
 @client.event
@@ -79,3 +83,4 @@ async def on_message(message):
 # testing
 
 client.run(dev)
+bot.run(dev)
