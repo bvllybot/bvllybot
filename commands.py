@@ -20,5 +20,4 @@ async def bvlly(ctx, *arg): # <--- *arg stores arguments as tuples. Check print 
             await ctx.send('this is me helping your dumb ass')
     else:
         await ctx.send('fuck you pinging me for? try using a command you retard')
-
 client.run(dev)

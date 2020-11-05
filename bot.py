@@ -12,10 +12,10 @@ import filters as f # f for filter
 
 client = discord.Client()
 
-@bot.command()
-async def test(ctx):
-    await ctx.send('testing')
-    pass
+#@bot.command()
+#async def test(ctx):
+    #await ctx.send('testing')
+    #pass
 
 
 @client.event
@@ -32,12 +32,12 @@ async def on_message(message):
     white = f.white_filter(message)
 
 #kimbo
-    morocco = f.morocco_filter(message)
-    if morocco:
-        #you need to change channel id to the channel you want the message to be posted to
-         #channel = client.get_channel(667421091039412260)
-         await message.channel.send('***Girlfriend wants to travel to Morocco with me, should i be worried? I\'m a little bit worried. What if the low inhibition moroccans rape my blonde wh6te girlfriend and she likes it? I wouldnt be worried if she said somewhere like Netherlands or England or some cuck place with a bunch of wh8te bois. But its literally Morocco, with dark badboys. What do I do? Man Badr Hari is from Morocco. I would willingly go to Europe or some place with her as I\'m the baddest boy in Europe. But moroccans are all gigabadboys***')
-         return
+    #morocco = f.morocco_filter(message)
+    #if morocco:
+        ##you need to change channel id to the channel you want the message to be posted to
+         ##channel = client.get_channel(667421091039412260)
+         #await message.channel.send('***Girlfriend wants to travel to Morocco with me, should i be worried? I\'m a little bit worried. What if the low inhibition moroccans rape my blonde wh6te girlfriend and she likes it? I wouldnt be worried if she said somewhere like Netherlands or England or some cuck place with a bunch of wh8te bois. But its literally Morocco, with dark badboys. What do I do? Man Badr Hari is from Morocco. I would willingly go to Europe or some place with her as I\'m the baddest boy in Europe. But moroccans are all gigabadboys***')
+         #return
 
 
     jesus = f.jesus_filter(message)
@@ -54,7 +54,7 @@ async def on_message(message):
     cuck = f.cuck_filter(message)
     if cuck:
         #put the the name first then the code for it
-        await message.add_reaction("<:anatolia:772960807473905665>")
+        await message.add_reaction("<:transthumbsup:769514995587219486>")
         return
  #kimbo    
     
@@ -79,8 +79,8 @@ async def on_message(message):
 
 #token
 #production
-#client.run(prod)
+client.run(prod)
 # testing
 
-client.run(dev)
-bot.run(dev)
+#client.run(dev)
+#bot.run(dev)
