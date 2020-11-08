@@ -2,11 +2,12 @@ import discord
 from discord.ext import commands
 import random
 import re
-from tokens import dev, prod
+import json
 
 
 #directory imports
-from lookism import shitposts
+#from lookism import shitposts
+from tokens import dev, prod
 from gods import gods
 import filters as f # f for filter
 
@@ -17,7 +18,8 @@ client = discord.Client()
     #await ctx.send('testing')
     #pass
 
-
+with open('shitposts.json') as ff:
+    shitposts = json.load(ff)
 @client.event
 async def on_ready():
     #print('started')
