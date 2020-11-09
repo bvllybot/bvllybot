@@ -3,6 +3,7 @@ from discord.ext import commands
 import random
 import re
 import json
+import time 
 
 
 #directory imports
@@ -27,12 +28,13 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
+    author_role = message.author.roles # <-- all message author roles
+
     if message.author == client.user:
         print(client.user)
         return
-    nigger = f.nigger_filter(message)
-    white = f.white_filter(message)
 
+    white = f.white_filter(message)
 #kimbo
     #morocco = f.morocco_filter(message)
     #if morocco:
@@ -59,25 +61,24 @@ async def on_message(message):
         await message.add_reaction("<:transthumbsup:769514995587219486>")
         return
  #kimbo    
-    
-    #print(checked)
-    if nigger and (message.author.id not in gods):
-        #print(message.author)
-        #print(type(message.author))
-        #print(discord.member.Member)
-        await message.delete()
-        await message.author.send('https://discord.gg/Swwe7hknrT')
-        await message.author.send(f'{random.choice(shitposts).upper()}\n\n\n')
-        #await discord.member.Member.kick(message.author)
+    if 'bad wh*teboi' in str(author_role):
+        time.sleep(10)
+        await message.delete()            
 
-    if white and (message.author.id not in gods):
-        #print(message.author)
-        #print(type(message.author))
-        #print(discord.member.Member)
+    #print(checked)
+    #if nigger and (message.author.roles not in 'administrator'):
+        ##print(message.author)
+        ##print(type(message.author))
+        ##print(discord.member.Member)
+        #await message.delete()
+        #await message.author.send('https://discord.gg/Swwe7hknrT')
+        #await message.author.send(f'{random.choice(shitposts).upper()}\n\n\n')
+        ##await discord.member.Member.kick(message.author)
+
+    if white and (message.author.id not in 'administrator'):
         await message.delete()
         await message.author.send('https://discord.gg/Swwe7hknrT')
         await message.author.send("WH*TE BOY, YOU HAVE BROKEN THE ToS OF NOT USING * FOR WH*TE")
-        #await discord.member.Member.kick(message.author)
 
 #token
 #production
